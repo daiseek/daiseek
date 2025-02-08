@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Daiseek!  
-🚀 **I'm a developer & aspiring editor, building AI-powered independent publishing platforms.**  
 
 ### 🛠 Tech Stacks  
 <div align="center">

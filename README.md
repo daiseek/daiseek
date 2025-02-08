@@ -6,6 +6,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=daiseek&theme=github)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=daiseek&theme=github)
+
+
 
 <!--
 **daiseek/daiseek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

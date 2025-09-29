@@ -2,7 +2,7 @@
 
 ## git animals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{daiseek}"/>
+  <img src="https://render.gitanimals.org/farms/{daiseek}"/>
 </a>
 
 

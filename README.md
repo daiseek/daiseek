@@ -6,44 +6,6 @@
 </a>
 
 
-### 🛠 Tech Stacks  
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Backend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Frontend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      </td>
-    </tr>   
-    <tr>
-      <td align="center"><strong>ETC</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ### 📊 GitHub Stats  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daiseek&theme=github)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiseek&show_icons=true&theme=tokyonight)

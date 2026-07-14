@@ -6,4 +6,7 @@
 </a>
 
 ## GitFut
-[![My GitFut card](https://gitfut.com/daiseek.png)](https://gitfut.com/daiseek?country=KR)
+
+## GitFut
+
+<a href="https://gitfut.com/daiseek?country=KR"><img src="https://gitfut.com/daiseek.png?country=KR" width="240" alt="My GitFut card"></a>

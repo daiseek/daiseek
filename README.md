@@ -5,7 +5,6 @@
   <img src="https://render.gitanimals.org/farms/{daiseek}"/>
 </a>
 
-## GitFut
 
 ## GitFut
 
